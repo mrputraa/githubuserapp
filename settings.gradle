@@ -1,0 +1,3 @@
+rootProject.name='GithubUserApp(UI-UX-API)'
+include ':app'
+include ':favapp'

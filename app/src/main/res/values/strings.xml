@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="setting_menu">Settings</string>
+    <string name="search_hint">Enter a Keyword</string>
+    <string name="main_hint">Please click Loops icon to search Github user</string>
+
+    <string name="tab_text_following">Following</string>
+    <string name="tab_text_follower">Follower</string>
+    <string name="content_tab_following">No Following</string>
+    <string name="content_tab_follower">No Follower</string>
+
+    <string name="detail">User Detail</string>
+    <string name="user_username">Username</string>
+    <string name="user_company">"Company"</string>
+    <string name="user_location">Location</string>
+    <string name="user_following">Following</string>
+    <string name="user_follower">Follower</string>
+    <string name="user_repository">Repository</string>
+    <string name="fav_true">Added to Favorites</string>
+    <string name="fav_false">Removed from Favorites</string>
+    <string name="empty">(empty)</string>
+
+    <string name="user">User</string>
+
+    <string name="key_reminder">Reminder</string>
+    <string name="key_language">Language</string>
+
+    <string name="reminder">Reminder at 9.00 AM</string>
+    <string name="sum_reminder">Enable or disable reminder</string>
+    <string name="reminder_on">Reminder enabled</string>
+    <string name="reminder_off">Reminder disabled</string>
+
+
+    <string name="notif_title">Github</string>
+    <string name="notif_message">Let\s find popular users on Github!</string>
+
+    <string name="language">Language Setting</string>
+
+    <string name="fav_list">Favorites</string>
+
+    <string name="appwidget_text">Favorites</string>
+    <string name="empty_text">No Data</string>
+
+</resources>

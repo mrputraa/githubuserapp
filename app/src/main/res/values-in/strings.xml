@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="search">Cari</string>
+    <string name="favorites">Favorit</string>
+    <string name="setting_menu">Pengaturan</string>
+    <string name="search_hint">Masukkan kata kunci</string>
+    <string name="main_hint">Silakan klik ikon Lup untuk mencari pengguna Github</string>
+
+    <string name="tab_text_following">Mengikuti</string>
+    <string name="tab_text_follower">Pengikut</string>
+    <string name="content_tab_following">Tidak Ada Mengikuti</string>
+    <string name="content_tab_follower">Tidak Ada Pengikut</string>
+
+    <string name="detail">Detil Pengguna</string>
+    <string name="user_username">Nama Pengguna</string>
+    <string name="user_company">Perusahaan</string>
+    <string name="user_location">Lokasi</string>
+    <string name="user_following">Mengikuti</string>
+    <string name="user_follower">Pengikut</string>
+    <string name="user_repository">Repositori</string>
+    <string name="fav_true">Ditambahkan ke Favorit</string>
+    <string name="fav_false">Dihapus dari Favorit</string>
+    <string name="empty">(kosong)</string>
+
+    <string name="user">Pengguna</string>
+    
+    <string name="key_reminder">Reminder</string>
+    <string name="key_language">Bahasa</string>
+
+    <string name="reminder">Pengingat pada 9.00 AM</string>
+    <string name="sum_reminder">Aktifkan atau nonaktifkan pengingat</string>
+    <string name="reminder_on">Reminder diaktifkan</string>
+    <string name="reminder_off">Reminder dinonaktifkan</string>
+
+    <string name="notif_title">Github</string>
+    <string name="notif_message">Ayo cari para pengguna populer di Github!</string>
+    <string name="language">Pengaturan Bahasa</string>
+
+    <string name="fav_list">Favorit</string>
+
+    <string name="appwidget_text">Favorit</string>
+    <string name="empty_text">Tidak Ada Data</string>
+</resources>
